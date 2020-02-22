@@ -4,6 +4,8 @@ import dota2 from '../../assets/img/dota2.jpg';
 import nodebr from '../../assets/img/nodebr.jpg';
 import pokeapi from '../../assets/img/pokeapi.png';
 
+import './styles.css';
+
 export default function Work() {
     return (
         <section class="my-work" id="work">

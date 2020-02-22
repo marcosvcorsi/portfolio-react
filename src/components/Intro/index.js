@@ -2,6 +2,8 @@ import React from 'react';
 
 import profile from '../../assets/img/profile.jpg';
 
+import './styles.css';
+
 export default function Intro() {
     return (
         <section class="intro" id="home">

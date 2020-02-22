@@ -1,5 +1,7 @@
 import React from 'react';
 
+import './styles.css';
+
 export default function Areas() {
     return (
         <section class="my-services" id="services">

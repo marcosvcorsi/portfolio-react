@@ -2,6 +2,8 @@ import React from 'react';
 
 import hack from '../../assets/img/hack.jpg';
 
+import './styles.css';
+
 export default function About() {
     return (
         <section class="about-me" id="about">
